@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+   
+  }
+  .bg {
+    background-image: url("/public/img/bg.jpg");
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 10%;
+    padding-top: 15%;
+  }
